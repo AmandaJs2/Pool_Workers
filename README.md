@@ -10,7 +10,7 @@ Pool_Workers is a small package for dealing with pools, workers and queues.
 pip install pool-workers
 ```
 ## More info:
-Usefull functions for Pool as well as Worker.
+Useful functions for Pool as well as Worker.
 
 ```python
 """
